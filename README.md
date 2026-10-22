@@ -1,5 +1,7 @@
 # Browser Tabs Simulator
 
+   [![CI](https://github.com/andreipopa05/browser-tabs-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/andreipopa05/browser-tabs-simulator/actions/workflows/ci.yml)
+
 A command-line browser simulation written in C. It manages multiple tabs, and each tab keeps its own page history with back/forward navigation.
 
 Tabs are stored in a **circular doubly linked list with a sentinel node**, and every tab keeps its history in **two stacks** (backward and forward).
