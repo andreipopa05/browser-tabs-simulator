@@ -1,0 +1,12 @@
+1
+10
+https://www.wikipedia.org/
+Free encyclopedia
+7
+CLOSE
+OPEN 5
+PAGE 99
+BACKWARD
+FORWARD
+PRINT_HISTORY 7
+PRINT

@@ -1,0 +1,20 @@
+3
+10
+https://www.wikipedia.org/
+Free encyclopedia
+20
+https://www.mozilla.org/
+Mozilla Foundation
+30
+https://www.python.org/
+Python homepage
+9
+PAGE 10
+PAGE 20
+PAGE 30
+PRINT_HISTORY 0
+BACKWARD
+PRINT
+BACKWARD
+FORWARD
+PRINT
